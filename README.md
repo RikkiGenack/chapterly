@@ -292,6 +292,14 @@ Built incrementally across milestones:
   - [ ] Automated end-to-end test coverage
 
 ---
+## 👩‍💻 My Contributions
+
+This project was developed as a team project. My contributions included:
+
+- Connecting frontend functionality with backend API routes
+- Contributing to project architecture and design documentation
+- Supporting deployment configuration for the React frontend, Express API, and PostgreSQL database
+- Contributing to project documentation and MVP deliverables
 
 <div align="center">
 
